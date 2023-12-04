@@ -1,5 +1,11 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "DDKMLNoZ8VSrsv16xJe1nzRSNUJ30Q6up6QgZhKLMIQc1qwATClEjjJNPdNQY2c89rlmNd2dn8LHoYxbWvYrfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices.csproj",
+  "expectedPackageFiles": [],
+=======
   "dgSpecHash": "+OxXNvk31YmWeOEBHv6oeynxNsBr+T98mU3YBcG2jH+CR8CyPHRR9imgdIDpwdwHlSwZdg9qOFTCtsLH+nSbAg==",
   "success": true,
   "projectFilePath": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices.csproj",
@@ -50,5 +56,6 @@
     "C:\\Users\\quang\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\quang\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
+>>>>>>> main
   "logs": []
 }

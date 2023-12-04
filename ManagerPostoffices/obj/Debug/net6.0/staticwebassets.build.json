@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "3U1v4+4yQQ5AUTS165csYk5Q0CJaDRbKfPX/hp99dvk=",
+=======
   "Hash": "a7mBT3dbX69MujuuUTFIGg+spNSo7GuCEYqBrIWfFHE=",
+>>>>>>> main
   "Source": "ManagerPostoffices",
   "BasePath": "_content/ManagerPostoffices",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "ManagerPostoffices\\wwwroot",
       "Source": "ManagerPostoffices",
+<<<<<<< HEAD
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ManagerPostoffices.styles.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ManagerPostoffices.styles.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "ManagerPostoffices.styles.css",
       "AssetKind": "All",
@@ -31,6 +46,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ManagerPostoffices.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ManagerPostoffices.bundle.scp.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+=======
       "OriginalItemSpec": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ManagerPostoffices.styles.css"
     },
     {
@@ -38,6 +62,7 @@
       "SourceId": "ManagerPostoffices",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "ManagerPostoffices.bundle.scp.css",
       "AssetKind": "All",
@@ -48,6 +73,100 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ManagerPostoffices.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "assets/demo/chart-area-demo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "assets/demo/chart-bar-demo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "assets/demo/chart-pie-demo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "assets/demo/datatables-demo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "assets/img/error-404-monochrome.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\css\\site.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "OriginalItemSpec": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ManagerPostoffices.bundle.scp.css"
     },
     {
@@ -55,6 +174,7 @@
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +188,34 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\css\\styles.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\favicon.ico",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\favicon.ico",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +229,51 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\js\\datatables-simple-demo.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "js/datatables-simple-demo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\js\\scripts.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\js\\site.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\js\\site.js",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +287,153 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -119,10 +447,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -136,10 +471,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -153,10 +495,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -170,10 +519,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -187,10 +543,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +567,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +591,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +615,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -255,10 +639,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -272,10 +663,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -289,10 +687,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -306,10 +711,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -323,10 +735,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +759,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +783,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +807,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -391,10 +831,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -408,10 +855,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -425,10 +879,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -442,10 +903,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -459,10 +927,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +951,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +975,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,6 +999,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
@@ -650,6 +1145,7 @@
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +1159,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +1183,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +1207,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +1231,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +1255,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +1279,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +1303,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +1327,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +1351,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +1375,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +1399,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +1423,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +1447,170 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+      "BasePath": "_content/ManagerPostoffices",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -884,10 +1624,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -901,10 +1648,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "ManagerPostoffices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Long\\Documents\\GitHub\\ManagerPostoffices\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+=======
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ManagerPostoffices",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/ManagerPostoffices",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -916,6 +1670,8 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+<<<<<<< HEAD
+=======
     },
     {
       "Identity": "D:\\PRN221\\ManagerPostoffices\\ManagerPostoffices\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -1069,6 +1825,7 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+>>>>>>> main
     }
   ]
 }

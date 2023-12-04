@@ -1,3 +1,36 @@
+<<<<<<< HEAD
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\appsettings.json
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\ManagerPostoffices.staticwebassets.runtime.json
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\ManagerPostoffices.exe
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\ManagerPostoffices.deps.json
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\ManagerPostoffices.runtimeconfig.json
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\ManagerPostoffices.dll
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\ManagerPostoffices.pdb
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.csproj.AssemblyReference.cache
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.AssemblyInfo.cs
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.RazorAssemblyInfo.cache
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.RazorAssemblyInfo.cs
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\staticwebassets\msbuild.ManagerPostoffices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\staticwebassets\msbuild.build.ManagerPostoffices.props
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManagerPostoffices.props
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManagerPostoffices.props
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\scopedcss\bundle\ManagerPostoffices.styles.css
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\scopedcss\projectbundle\ManagerPostoffices.bundle.scp.css
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.dll
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\refint\ManagerPostoffices.dll
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.pdb
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.genruntimeconfig.cache
+C:\Users\Long\Documents\GitHub\ManagerPostoffices\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ref\ManagerPostoffices.dll
+=======
 D:\PRN221\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\appsettings.Development.json
 D:\PRN221\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\appsettings.json
 D:\PRN221\ManagerPostoffices\ManagerPostoffices\bin\Debug\net6.0\ManagerPostoffices.staticwebassets.runtime.json
@@ -68,3 +101,4 @@ D:\PRN221\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\refint\ManagerP
 D:\PRN221\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.pdb
 D:\PRN221\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ManagerPostoffices.genruntimeconfig.cache
 D:\PRN221\ManagerPostoffices\ManagerPostoffices\obj\Debug\net6.0\ref\ManagerPostoffices.dll
+>>>>>>> main
