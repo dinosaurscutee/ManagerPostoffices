@@ -1,3 +1,6 @@
+using ManagerPostoffices.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace ManagerPostoffices
 {
     public class Program
@@ -8,6 +11,10 @@ namespace ManagerPostoffices
 
             // Add services to the container.
             builder.Services.AddRazorPages();
+
+            builder.Services.AddDbContext<ManagerPostofficesDbContext>(
+                oprions => oprions.UseSqlServer(builder.Configuration.GetConnectionString("MyCnn"))
+                );
 
             var app = builder.Build();
 
