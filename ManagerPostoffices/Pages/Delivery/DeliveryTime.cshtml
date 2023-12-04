@@ -1,0 +1,47 @@
+﻿@page "{packageId}"
+@model ManagerPostoffices.Pages.Delivery.DeliveryTimeModel
+@{
+    ViewData["Title"] = "Expected Delivery Time";
+}
+
+<h2>Expected Delivery Time</h2>
+
+@if (Model.Package != null)
+{
+    <div>
+        <h4>Package Information</h4>
+        <dl class="row">
+            <dt class="col-sm-2">Package ID:</dt>
+            <dd class="col-sm-10">@Model.Package.PackageId</dd>
+
+            <dt class="col-sm-2">Size:</dt>
+            <dd class="col-sm-10">@Model.Package.Size</dd>
+
+            <dt class="col-sm-2">Weight:</dt>
+            <dd class="col-sm-10">@Model.Package.Weight</dd>
+
+            <dt class="col-sm-2">Value:</dt>
+            <dd class="col-sm-10">@Model.Package.Value</dd>
+        </dl>
+    </div>
+
+    <div>
+        <h4>Recipient Information</h4>
+        <dl class="row">
+            <dt class="col-sm-2">Recipient ID:</dt>
+            <dd class="col-sm-10">@Model.Package.Recipient.RecipientId</dd>
+
+            <dt class="col-sm-2">Recipient Name:</dt>
+            <dd class="col-sm-10">@Model.Package.Recipient.Name</dd>
+
+            <dt class="col-sm-2">Contact Info:</dt>
+            <dd class="col-sm-10">@Model.Package.Recipient.ContactInfo</dd>
+        </dl>
+    </div>
+
+   
+}
+else
+{
+    <p>Package not found.</p>
+}

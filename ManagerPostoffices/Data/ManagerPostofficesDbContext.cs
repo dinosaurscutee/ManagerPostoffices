@@ -48,6 +48,12 @@ namespace ManagerPostoffices.Data
                 .HasForeignKey(p => p.TransportId)
                 .OnDelete(DeleteBehavior.Restrict);
 
+            modelBuilder.Entity<DeliveryStatus>()
+                .HasMany(ds => ds.PackageDeliveryHistory)
+                .WithOne(pd => pd.DeliveryStatus)
+                .HasForeignKey(pd => pd.DeliveryStatusId)
+                .OnDelete(DeleteBehavior.Cascade);
+
             modelBuilder.Entity<PackageDeliveryHistory>()
                 .HasKey(pd => new { pd.PackageId, pd.DeliveryStatusId });
 
@@ -95,15 +101,44 @@ namespace ManagerPostoffices.Data
 
             // Seed DeliveryStatuses
             modelBuilder.Entity<DeliveryStatus>().HasData(
-                new DeliveryStatus { DeliveryStatusId = 1, Status = "In Progress", StatusDescription = "Package is being processed", UpdateTime = DateTime.Now },
-                new DeliveryStatus { DeliveryStatusId = 2, Status = "Delivered", StatusDescription = "Package has been delivered", UpdateTime = DateTime.Now }
+                new DeliveryStatus
+                {
+                    DeliveryStatusId = 1,
+                    Status = "In Progress",
+                    StatusDescription = "Package is being processed",
+                    UpdateTime = DateTime.Now,
+                    TimeOutForDelivery = null,
+                    TimeDelivered = null,
+                    TimeCancelled = null
+                },
+                new DeliveryStatus
+                {
+                    DeliveryStatusId = 2,
+                    Status = "Delivered",
+                    StatusDescription = "Package has been delivered",
+                    UpdateTime = DateTime.Now,
+                    TimeOutForDelivery = DateTime.Now.AddHours(1),
+                    TimeDelivered = DateTime.Now,
+                    TimeCancelled = null
+                },
+                new DeliveryStatus
+                {
+                    DeliveryStatusId = 3,
+                    Status = "Cancelled",
+                    StatusDescription = "Package has been cancelled",
+                    UpdateTime = DateTime.Now,
+                    TimeOutForDelivery = null,
+                    TimeDelivered = null,
+                    TimeCancelled = DateTime.Now
+                }
             );
 
-            // Seed PackageDeliveryHistory
             modelBuilder.Entity<PackageDeliveryHistory>().HasData(
                 new PackageDeliveryHistory { PackageId = 1, DeliveryStatusId = 1, TimeStamp = DateTime.Now, IsCurrentStatus = true },
-                new PackageDeliveryHistory { PackageId = 2, DeliveryStatusId = 2, TimeStamp = DateTime.Now, IsCurrentStatus = true }
+                new PackageDeliveryHistory { PackageId = 2, DeliveryStatusId = 2, TimeStamp = DateTime.Now, IsCurrentStatus = true },
+                new PackageDeliveryHistory { PackageId = 3, DeliveryStatusId = 3, TimeStamp = DateTime.Now, IsCurrentStatus = true }
             );
+
         }
     }
 }
