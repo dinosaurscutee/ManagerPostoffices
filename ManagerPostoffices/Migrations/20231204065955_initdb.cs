@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ManagerPostoffices.Migrations
 {
-    public partial class InitDbv1 : Migration
+    public partial class initdb : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -17,7 +17,10 @@ namespace ManagerPostoffices.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Status = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     StatusDescription = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    UpdateTime = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    UpdateTime = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    TimeOutForDelivery = table.Column<DateTime>(type: "datetime2", nullable: true),
+                    TimeDelivered = table.Column<DateTime>(type: "datetime2", nullable: true),
+                    TimeCancelled = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -137,11 +140,11 @@ namespace ManagerPostoffices.Migrations
 
             migrationBuilder.InsertData(
                 table: "DeliveryStatuses",
-                columns: new[] { "DeliveryStatusId", "Status", "StatusDescription", "UpdateTime" },
+                columns: new[] { "DeliveryStatusId", "Status", "StatusDescription", "TimeCancelled", "TimeDelivered", "TimeOutForDelivery", "UpdateTime" },
                 values: new object[,]
                 {
-                    { 1, "In Progress", "Package is being processed", new DateTime(2023, 12, 4, 13, 39, 43, 186, DateTimeKind.Local).AddTicks(7996) },
-                    { 2, "Delivered", "Package has been delivered", new DateTime(2023, 12, 4, 13, 39, 43, 186, DateTimeKind.Local).AddTicks(8005) }
+                    { 1, "In Progress", "Package is being processed", null, null, null, new DateTime(2023, 12, 4, 13, 59, 55, 311, DateTimeKind.Local).AddTicks(8882) },
+                    { 2, "Delivered", "Package has been delivered", null, null, null, new DateTime(2023, 12, 4, 13, 59, 55, 311, DateTimeKind.Local).AddTicks(8892) }
                 });
 
             migrationBuilder.InsertData(
@@ -185,12 +188,12 @@ namespace ManagerPostoffices.Migrations
             migrationBuilder.InsertData(
                 table: "PackageDeliveryHistory",
                 columns: new[] { "DeliveryStatusId", "PackageId", "IsCurrentStatus", "TimeStamp" },
-                values: new object[] { 1, 1, true, new DateTime(2023, 12, 4, 13, 39, 43, 186, DateTimeKind.Local).AddTicks(8013) });
+                values: new object[] { 1, 1, true, new DateTime(2023, 12, 4, 13, 59, 55, 311, DateTimeKind.Local).AddTicks(8932) });
 
             migrationBuilder.InsertData(
                 table: "PackageDeliveryHistory",
                 columns: new[] { "DeliveryStatusId", "PackageId", "IsCurrentStatus", "TimeStamp" },
-                values: new object[] { 2, 2, true, new DateTime(2023, 12, 4, 13, 39, 43, 186, DateTimeKind.Local).AddTicks(8014) });
+                values: new object[] { 2, 2, true, new DateTime(2023, 12, 4, 13, 59, 55, 311, DateTimeKind.Local).AddTicks(8933) });
 
             migrationBuilder.CreateIndex(
                 name: "IX_Addresses_RecipientId",

@@ -86,6 +86,15 @@ namespace ManagerPostoffices.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime?>("TimeCancelled")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("TimeDelivered")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("TimeOutForDelivery")
+                        .HasColumnType("datetime2");
+
                     b.Property<DateTime>("UpdateTime")
                         .HasColumnType("datetime2");
 
@@ -99,14 +108,14 @@ namespace ManagerPostoffices.Migrations
                             DeliveryStatusId = 1,
                             Status = "In Progress",
                             StatusDescription = "Package is being processed",
-                            UpdateTime = new DateTime(2023, 12, 4, 13, 39, 43, 186, DateTimeKind.Local).AddTicks(7996)
+                            UpdateTime = new DateTime(2023, 12, 4, 13, 59, 55, 311, DateTimeKind.Local).AddTicks(8882)
                         },
                         new
                         {
                             DeliveryStatusId = 2,
                             Status = "Delivered",
                             StatusDescription = "Package has been delivered",
-                            UpdateTime = new DateTime(2023, 12, 4, 13, 39, 43, 186, DateTimeKind.Local).AddTicks(8005)
+                            UpdateTime = new DateTime(2023, 12, 4, 13, 59, 55, 311, DateTimeKind.Local).AddTicks(8892)
                         });
                 });
 
@@ -196,14 +205,14 @@ namespace ManagerPostoffices.Migrations
                             PackageId = 1,
                             DeliveryStatusId = 1,
                             IsCurrentStatus = true,
-                            TimeStamp = new DateTime(2023, 12, 4, 13, 39, 43, 186, DateTimeKind.Local).AddTicks(8013)
+                            TimeStamp = new DateTime(2023, 12, 4, 13, 59, 55, 311, DateTimeKind.Local).AddTicks(8932)
                         },
                         new
                         {
                             PackageId = 2,
                             DeliveryStatusId = 2,
                             IsCurrentStatus = true,
-                            TimeStamp = new DateTime(2023, 12, 4, 13, 39, 43, 186, DateTimeKind.Local).AddTicks(8014)
+                            TimeStamp = new DateTime(2023, 12, 4, 13, 59, 55, 311, DateTimeKind.Local).AddTicks(8933)
                         });
                 });
 
